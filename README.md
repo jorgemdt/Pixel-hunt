@@ -1,4 +1,10 @@
-# 🎮 Pixel Hunt (Caçador de Pixels)
+<div align="center">
+<h1>🎮 Pixel Hunt (Caçador de Pixels)</h1>
+</div>
+<div align="center">
+ <img width="600" alt="image" src="https://github.com/user-attachments/assets/0fa6b274-34ed-464f-839f-be525f1b87b8" />
+</div>
+
 
 <div align="center">
 
