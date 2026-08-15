@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Pixel Hunt</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <h1>Pixel Hunt</h1>
+    <div class="hud">
+        Pontuação: <span id="score">0</span> &nbsp;|&nbsp; Tempo: <span id="time">20</span>s
+    </div>
+    <div class="instructions">Pressione <strong>ENTER</strong> para começar. Use WASD ou Setas para mover. Pressione
+        <strong>R</strong> para reiniciar.</div>
+
+    <!-- Resolução nativa do jogo -->
+    <canvas id="gameCanvas" width="500" height="400"></canvas>
+
+    <!-- Aqui o HTML chama o seu arquivo de lógica Javascript -->
+    <script src="game.js"></script>
+</body>
+
+</html>
